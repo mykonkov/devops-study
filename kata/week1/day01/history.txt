@@ -1,0 +1,50 @@
+   36  ls kata/week1/day1/
+   37  { date; hostnme; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -a 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt;  { date; hostnme; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -a 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt; 
+   38  ls kata/week1/day1/
+   39  mc
+   40  sudo apt install mc
+   41  mc
+   42  { date; hostname; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -a 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt;  { date; hostnme; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -[Aa 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt; 
+   43  { date; hostname; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -a 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt;  { date; hostnme; uname -a; lsb_release ; { date; hostnme; uname -a; lsb_release -[Aa 2>/dev/null || /etc/os-release; ip -4 a; ip r; } | tee kata/week1/day1/passport.txt 
+   44  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | tee kata/week1/day01/passport.txt
+   45  mc
+   46  tee
+   47  sudo apt install tee
+   48  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | cat >> kata/week1/day01/passport.txt
+   49  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | cat kata/week1/day01/passport.txt
+   50  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | tree kata/week1/day01/passport.txt
+   51  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | tee kata/week1/day01/passport.txt
+   52  mc
+   53  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | nano kata/week1/day01/passport.txt
+   54  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | сды kata/week1/day01/passport.txt
+   55  clear
+   56  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | tee kata/week1/day01/passport.txt
+   57  pwd
+   58  ls -la
+   59  ls -ld kata/week1/day01
+   60  ls -ld ./kata/week1/day01
+   61  rm kata/week1/day1/
+   62  rm -rf kata/week1/day1/
+   63  ls -ld ./kata/week1
+   64  ls -ld ./kata/week1/
+   65  ls -la ./kata/week1/
+   66  mkdir kata/week1/day01
+   67  {   date;   hostname;   uname -a;   lsb_release -a 2>/dev/null || cat /etc/os-release;   ip -4 a;   ip r; } | tee kata/week1/day01/passport.txt
+   68  mkc
+   69  mc
+   70  mkdir -p kata/week1/day01/work
+   71  cd kata/week1/day01/work/
+   72  touch test01.txt
+   73  touch test02.txt
+   74  touch test03.txt
+   75  mkdir work_test
+   76  ls -la
+   77  ls -ls
+   78  mv test01.txt work_test/test01.txt
+   79  cp test02.txt work_test/test02.txt
+   80  rm test03.txt 
+   81  ls 
+   82  ls work_test/
+   83  cd /home/devops/devops-study/
+   84  ls
+   85  history | tail -n 50 > kata/week1/day01/history.txt
