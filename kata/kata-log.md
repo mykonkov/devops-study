@@ -7,7 +7,7 @@
 - 🔗 Evidence (files/commands):
 
 ## Day 02
-- ✅ Done:
-- 💡 Learned:
+- ✅ Done: выполнил создание файло и поиск в них
+- 💡 Learned: создание и посик			
 - ❗Questions:
-- 🔗 Evidence (files/commands):
+- 🔗 Evidence (files/commands): mkdir, echo, find

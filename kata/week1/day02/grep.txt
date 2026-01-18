@@ -1,0 +1,1 @@
+work/secret.txt:1:secret=123

@@ -1,0 +1,2 @@
+work/public.txt
+work/secret.txt
