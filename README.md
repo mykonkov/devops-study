@@ -4,6 +4,7 @@
 - lab-ctl
 - lab-srv-01
 - lab-srv-02
+- lab-srv-03
 
 ## Rules
 - Every day: kata (10–20m) + lab (60–120m) + commit
